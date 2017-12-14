@@ -11,6 +11,8 @@ PostgreSQL 列出所有表名和数据库名,删除数据库
 
 时间戳:https://www.cnblogs.com/alianbog/p/5654846.html
 
+refer on :http://initd.org/pyscopg/docs
+
 
 
 
