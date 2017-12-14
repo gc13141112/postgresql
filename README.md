@@ -16,3 +16,5 @@ PostgreSQL 列出所有表名和数据库名,删除数据库
 查看表的字段
 
 \d 表名
+
+delete from testair;
