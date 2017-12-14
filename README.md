@@ -9,7 +9,7 @@ PostgreSQL 列出所有表名和数据库名,删除数据库
 |查看表的字段|删除表|
 |\d 表名|delete from testair;|
 
-
+时间戳:https://www.cnblogs.com/alianbog/p/5654846.html
 
 
 
