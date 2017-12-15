@@ -1,4 +1,4 @@
-,# postgresql
+# postgresql
 PostgreSQL 列出所有表名和数据库名,删除数据库
 
 链接数据库：connection=psycopg2.connect(database='airquality',user='airquality',password='123456',host='127.0.0.1',port='5432')
@@ -17,7 +17,7 @@ refer on :http://initd.org/pyscopg/docs
 
 测试环境：
 
-CPU:Intel(R) Core(TM) i5-7300HQ @2.50GHz,Memory:8GB
+CPU: Intel(R) Core(TM) i5-7300HQ @2.50GHz, Memory: 8GB
 
 测试速度：
 
