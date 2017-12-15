@@ -1,4 +1,4 @@
-# postgresql
+,# postgresql
 PostgreSQL 列出所有表名和数据库名,删除数据库
 
 链接数据库：connection=psycopg2.connect(database='airquality',user='airquality',password='123456',host='127.0.0.1',port='5432')
@@ -12,6 +12,18 @@ PostgreSQL 列出所有表名和数据库名,删除数据库
 时间戳:https://www.cnblogs.com/alianbog/p/5654846.html
 
 refer on :http://initd.org/pyscopg/docs
+
+在本人机器上测试数据入库：
+
+测试环境：
+
+CPU:Intel(R) Core(TM) i5-7300HQ @2.50GHz,Memory:8GB
+
+测试速度：
+
+1205.4s,一共224个csv文件,一共236M,入库记录4867793条,每条记录16个字段,平均每秒入库4056条记录(每条记录16列).
+
+python是8个进程运行
 
 
 
