@@ -25,6 +25,6 @@ CPU: Intel(R) Core(TM) i5-7300HQ @2.50GHz, Memory: 8GB
 
 python是8个进程运行,参考地址https://www.cnblogs.com/yy3b2007com/p/5716907.html
 
-
+| ![](https://github.com/gc13141112/postgresql/raw/master/img/%E6%B5%8B%E8%AF%95%E8%BF%9B%E7%A8%8B.png) | 
 
 
