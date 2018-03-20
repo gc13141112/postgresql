@@ -37,3 +37,5 @@
     -d：登录的数据库 
     -p：登录端口
     \q 退出数据库
+ # 创建数据库
+    https://www.yiibai.com/postgresql/postgresql-create-database.html
