@@ -9,9 +9,9 @@
 |查看表的字段|删除表|保存为csv|
 |\d 表名|delete from testair;|\copy testair to 'd:/test.csv with csv header;|
 
-时间戳:https://www.cnblogs.com/alianbog/p/5654846.html
+    时间戳:https://www.cnblogs.com/alianbog/p/5654846.html
 
-refer on :http://initd.org/pyscopg/docs
+    refer on :http://initd.org/pyscopg/docs
 
 在本人机器上测试数据入库：
 
