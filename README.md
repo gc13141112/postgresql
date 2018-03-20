@@ -1,5 +1,5 @@
 # postgresql
-PostgreSQL 列出所有表名和数据库名,删除数据库
+    PostgreSQL 列出所有表名和数据库名,删除数据库
 
 链接数据库：connection=psycopg2.connect(database='airquality',user='airquality',password='123456',host='127.0.0.1',port='5432')
 
