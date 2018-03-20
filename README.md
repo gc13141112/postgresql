@@ -31,7 +31,7 @@
 
 
 # 通过命令行登录
-  命令：psql -h  10.10.10.10 -U user -d postgres -p 5570
+    命令：psql -h  10.10.10.10 -U user -d postgres -p 5570
   -h：数据库IP 
   -U：登录用户 
   -d：登录的数据库 
