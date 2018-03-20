@@ -30,3 +30,9 @@ python是8个进程运行,参考地址https://www.cnblogs.com/yy3b2007com/p/5716
 | ![](https://github.com/gc13141112/postgresql/raw/master/img/%E6%B5%8B%E8%AF%95%E8%BF%9B%E7%A8%8B.png) | 
 
 
+# 通过命令行登录
+  命令：psql -h  10.10.10.10 -U user -d postgres -p 5570
+  -h：数据库IP 
+  -U：登录用户 
+  -d：登录的数据库 
+  -p：登录端口
