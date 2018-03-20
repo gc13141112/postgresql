@@ -13,17 +13,17 @@
 
     refer on :http://initd.org/pyscopg/docs
 
-在本人机器上测试数据入库：
+# CASE
+    在本人机器上测试数据入库：
+    测试环境：
 
-测试环境：
+    CPU: Intel(R) Core(TM) i5-7300HQ @2.50GHz, Memory: 8GB
 
-CPU: Intel(R) Core(TM) i5-7300HQ @2.50GHz, Memory: 8GB
+    测试速度：
 
-测试速度：
+    1205.4s,一共224个csv文件,一共236M,入库记录4867793条,每条记录16个字段,平均每秒入库4056条记录(每条记录16列).
 
-1205.4s,一共224个csv文件,一共236M,入库记录4867793条,每条记录16个字段,平均每秒入库4056条记录(每条记录16列).
-
-python是8个进程运行,参考地址https://www.cnblogs.com/yy3b2007com/p/5716907.html
+    python是8个进程运行,参考地址https://www.cnblogs.com/yy3b2007com/p/5716907.html
 
 | 测试案例 | 
 | :---------------: | 
